@@ -86,7 +86,7 @@ public class OracleExamTest {
 		
 		// exercise 8
 		
-		Scanner sc =new Scanner(System.in);
+	/*	Scanner sc =new Scanner(System.in);
 		System.out.println("enter the grade");
 		int grade=sc.nextInt();
 		if(grade > 80 && grade < 100 ) {
@@ -111,6 +111,40 @@ public class OracleExamTest {
      {
     	 System.out.println("excetion time");
       }
-     }
+     
 
+	
+	*/
+		// exercise 10
+	/*	double doubleArray[]=new double[20];
+		doubleArray[0]=3.5;
+		System.out.println(doubleArray[0]);
+		
+		int arrayDounle[]=new int[] {1,2,3,4,5,6,7,8};
+		System.out.println("first array element"+arrayDounle[5]);
+	*/
+		
+		// exercise 11
+		// find the even no in below program.
+		
+	/*	int countarray[]= {4,5,8,9,20};
+		int sum=0;
+		//System.out.println(countarray.length);
+		for(int i=0;i<countarray.length;i++) {
+		       
+               if(countarray[i]%2==0) {
+		       sum=sum+countarray[i];
+				//System.out.println(countarray[i]);
+			 }
+			
+			}
+		System.out.println(sum);
+
+	*/
+	
+		// exercise 12
+		
+		
+		
+	}
 }
