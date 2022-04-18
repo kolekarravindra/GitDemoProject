@@ -8,9 +8,9 @@ public class MyGreatTime {
 		return minutes;
 	}
 
-	public void setMinutes(int pricevalue) throws ValueException{
+	public void setMinutes(int minutes) throws ValueException{
 		
-		if(80 > minutes)
+		if(80 < minutes)
 		{
 			throw new ValueException("try to time set 80 mintues");
 		}
