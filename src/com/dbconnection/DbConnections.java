@@ -6,7 +6,7 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
-//JDBC Connection Exercise
+//JDBC Connection 
 public class DbConnections {
 
 	public static void main(String[] args) throws SQLException {
@@ -32,6 +32,8 @@ public class DbConnections {
 				String actors=rst.getString("actor");
 				String actores=rst.getString("actress");
 
+				
+				// get  data form database
 				System.out.println(name);
 				System.out.println(actors);
                 System.out.println(actores);

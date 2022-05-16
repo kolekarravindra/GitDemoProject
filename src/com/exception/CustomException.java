@@ -8,8 +8,8 @@ public class CustomException {
 		MyGreatTime pc = new MyGreatTime();
 		try {
 			
-			//pc.setMinutes(1000);
-			pc.setMinutes(20);
+			pc.setMinutes(1000);
+			//pc.setMinutes(20);
 
 		} catch (ValueException e) {
 			// TODO Auto-generated catch block
