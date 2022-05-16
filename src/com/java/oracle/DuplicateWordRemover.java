@@ -2,7 +2,7 @@ package com.java.oracle;
 
 import java.util.HashSet;
 import java.util.Set;
-//exercise 11
+//exercise collection 
 public class DuplicateWordRemover {
 
 	 public String removeDuplicateLetters(String s) {

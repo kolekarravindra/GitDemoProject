@@ -11,7 +11,7 @@ public class TreeUsingSet {
 	
 	 public static void main(String args[]){  
 	
-	  /*Set<String> al =new TreeSet<String>();  
+	  Set<String> al =new TreeSet<String>();  
 	  
 	  al.add("Ravi");  
 	  al.add("Vijay");  
@@ -24,13 +24,13 @@ public class TreeUsingSet {
 	  while(itr.hasNext()){  
 	   System.out.println("output of program: "+itr.next());  
 	  }  
-	  */
-		 List<String> cities = Arrays.asList("Milan","london","San Francisco","Tokyo","New Delhi"
+	  
+		 /*List<String> cities = Arrays.asList("Milan","london","San Francisco","Tokyo","New Delhi"
 			);
 			System.out.println(cities);
 			cities.sort(String.CASE_INSENSITIVE_ORDER);
 			System.out.println(cities);
-	 }  
-	 
-
+	   
+	 */
+	 }
 }

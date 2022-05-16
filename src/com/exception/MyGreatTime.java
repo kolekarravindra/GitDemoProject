@@ -14,6 +14,9 @@ public class MyGreatTime {
 		{
 			throw new ValueException("try to time set 80 mintues");
 		}
+		else {
+			System.out.println("Proper Successfull set value ");
+		}
 		
 		this.minutes = minutes;
 	}
