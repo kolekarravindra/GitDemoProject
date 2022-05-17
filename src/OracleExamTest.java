@@ -2,11 +2,12 @@ import java.util.Scanner;
 
 public class OracleExamTest {
 
+	//practies example
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
 				
-	/*	// exercise 1
+	/*	// ex 1
 		int ditance;   // define variable
 		ditance=4750;
 		int km,m;
@@ -20,7 +21,7 @@ public class OracleExamTest {
 		
 		
 		
-/*		// exercise 2
+/*		// ex 2
 		// TypeCasting example
 		//long time = 4000000000L;
 		long time = 4000000000L;
@@ -32,7 +33,7 @@ public class OracleExamTest {
 	
 	*/
 		
-	/*	// exercise 3
+	/*	// ex 3
 		//float example
 		//float f=10.45/9.5;              // Exception error
 		float f=10.45f/9.5f; 
@@ -40,7 +41,7 @@ public class OracleExamTest {
 	*/
 		
 		
-	/*	// exercise 4
+	/*	// ex 4 
 		// operator procedure
 		long data=(3*5)%7;
 		long data1=3*5%7;
@@ -51,7 +52,7 @@ public class OracleExamTest {
 		
       */
 	
-	/*	// exercise 5
+	/*	// ex 5
 		// Boolean  logical Operators
 		boolean isBlond=false;
 		//boolean isGraduated=false;
@@ -70,7 +71,7 @@ public class OracleExamTest {
            
 	
 	
-	// exercise 6
+	// ex 6
 	
 	/*float f=(float) (20.5*24.5);
 	
@@ -78,13 +79,13 @@ public class OracleExamTest {
 	
 */
 		
-		// exercise 7
+		// ex 7
 		
 		/*char c=65+32;
         System.out.println(c);
 	*/
 		
-		// exercise 8
+		// ex 8
 		
 	/*	Scanner sc =new Scanner(System.in);
 		System.out.println("enter the grade");
@@ -115,7 +116,7 @@ public class OracleExamTest {
 
 	
 	*/
-		// exercise 10
+		// ex  10
 	/*	double doubleArray[]=new double[20];
 		doubleArray[0]=3.5;
 		System.out.println(doubleArray[0]);
@@ -124,7 +125,7 @@ public class OracleExamTest {
 		System.out.println("first array element"+arrayDounle[5]);
 	*/
 		
-		// exercise 11
+		// ex 11
 		// find the even no in below program.
 		
 	/*	int countarray[]= {4,5,8,9,20};
@@ -142,7 +143,7 @@ public class OracleExamTest {
 
 	*/
 	
-		// exercise 12
+		// ex 12
 		
 		
 		

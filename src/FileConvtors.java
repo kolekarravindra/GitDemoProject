@@ -7,7 +7,7 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 
-// file Input Output Stream exercise
+// file Input Output
 public class FileConvtors {
 
 	public void convertFile(String inputPath,String outputpath,String newdataFormat) {
