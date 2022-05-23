@@ -18,7 +18,7 @@ public class SearchValueKeys {
             System.out.println(ht);
             
             System.out.println("===============================================");
-            if (ht.containsKey("1") && ht.containsValue("First"))
+            if (ht.containsKey("1") && ht.containsValue("Six"))
             {
                     System.out.println("key 1 and value first are available.");
             }

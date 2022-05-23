@@ -21,8 +21,8 @@ class SortList
         {
                 LinkedList<Student> list = new LinkedList<Student>();
                 list.add(new Student("Ravindra", 1001));
-                list.add(new Student("vaibhav", 1005));
-                list.add(new Student("salim", 1000));
+                list.add(new Student("Vaibhav", 1005));
+                list.add(new Student("Salim", 1000));
                 list.add(new Student("Deshraj", 1002));
                 
                 Collections.sort(list, new StudCompare());

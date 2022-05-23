@@ -18,7 +18,7 @@ package com.threading.concept;
 	{  
 	System.out.println("The exception has been caught: " + e);  
 	}  
-	System.out.println( j );  
+	System.out.println("output will be=" + j );  
 	}  
 	}  
 	}  
