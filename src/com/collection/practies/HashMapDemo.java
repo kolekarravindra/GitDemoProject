@@ -12,7 +12,7 @@ public class HashMapDemo {
 		      hm.put(100,"Amit");    
 		      hm.put(101,"Vijay");    
 		      hm.put(102,"Rahul");   
-		      
+
 		      System.out.println("Initial list of elements:");  
 		     for(Map.Entry m:hm.entrySet())  
 		     {  
@@ -45,3 +45,4 @@ public class HashMapDemo {
 		 }  
 	
 }
+// end point

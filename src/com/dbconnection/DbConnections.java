@@ -31,12 +31,14 @@ public class DbConnections {
 				String name=rst.getString("name");
 				String actors=rst.getString("actor");
 				String actores=rst.getString("actress");
+                String Direct=rst.getString("directordffd");
 
 				
 				// get  data form database
 				System.out.println(name);
 				System.out.println(actors);
                 System.out.println(actores);
+                System.out.println(Direct);
 
 			}
 			

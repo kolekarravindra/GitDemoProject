@@ -37,8 +37,8 @@ public class DateAndTime {
 		ZonedDateTime zonedatetime = ZonedDateTime.now();
 		System.out.println(zonedatetime);
 
-		ZoneId mumbai = ZoneId.of("Europe/Berlin");
-		ZonedDateTime mumb = zonedatetime.withZoneSameInstant(mumbai);
+		ZoneId berlin = ZoneId.of("Europe/Berlin");
+		ZonedDateTime mumb = zonedatetime.withZoneSameInstant(berlin);
 		System.out.println(mumb);
 
 		OffsetDateTime offsettime = OffsetDateTime.now();

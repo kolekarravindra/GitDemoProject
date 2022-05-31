@@ -15,7 +15,7 @@ public class MAPInterface {
         hm.put("b", new Integer(200));
         hm.put("c", new Integer(300));
         hm.put("d", new Integer(400));
-       // hm.put("d", new Integer(400)); hash map using unique data
+        hm.put("d", new Integer(500));
   
         for (Map.Entry<String, Integer> me :
              hm.entrySet()) {
@@ -27,3 +27,4 @@ public class MAPInterface {
 	
 	
 }
+//end point

@@ -4,7 +4,6 @@ import java.util.Hashtable;
 
 public class SearchValueKeys {
 
-	//Practice Demo 19/05/2021
 	public static void main(String[] args)
     {
             Hashtable<String, String> ht = new Hashtable<String, String>();
